@@ -4,6 +4,10 @@ This program fetches for admin login directory/page in a certain website
 
 Using this program you can find hidden directories in a website 
 
+
+There is also a .exe file for people who do not know how to use .py file.. Just download the exe file and click on it and the program will start.
+
+
 - It's better to use VPN before you start the program.
 - You can use the program without a text file for paths! just enter the website link and boom!
 - You can find other hidden pages too! not only admin login page.
