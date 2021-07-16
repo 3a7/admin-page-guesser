@@ -6,6 +6,7 @@ Using this program you can find hidden directories in a website
 
 - It's better to use VPN before you start the program.
 - You can use the program without a text file for paths! just enter the website link and boom!
+- You can find other hidden pages too! not only admin login page.
 
 ![2021-07-16 16_46_32-ADMIN PAGE GUESSER!](https://user-images.githubusercontent.com/58238467/125968629-bb722116-fe3a-40cd-9f6a-6e61a7b90a75.png)
 
